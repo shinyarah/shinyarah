@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shinyarah
-- 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning Data Labelling for Machine Learning
-- 📫 How to reach me 
+# 👋 Hi, I’m @shinyarah
+## 👀 I’m interested in Data Science and Data Analysis
+## 🌱 I’m currently learning Data Labelling for Machine Learning
+## 📫 You can reach me at
 # wanjirukinyara@gmail.com
 
 <!---
